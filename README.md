@@ -1,6 +1,6 @@
 # Stock_price_LSTM
 
-How to do stock training, validating, and testing data?
+How to do stock data training, validating, and testing?
 
 1. I took year 2023 and 2024 data of Nvidia stock prices from Yahoo Finance and saved as nvda_stock_data_2.csv.
 
@@ -20,6 +20,6 @@ How to do stock training, validating, and testing data?
 
 9. Before plotting the predictions and ground truths of train, validate, and test sets, we need to inverse transform the scaler of the data.
 
-10. The plots of the predictions and ground truths of train, validate, and test sets in continous lines and marked with different colors.
+10. The plots of the predictions and ground truths of train, validate, and test sets are in continous lines and marked with different colors.
 
 Note: Stock prices normally fluactuate due to economy and news, and it usually do not follow a predictive pattern like weather.
