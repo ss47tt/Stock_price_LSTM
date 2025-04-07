@@ -22,4 +22,4 @@ How to do stock training, validating, and testing data?
 
 10. The plots of the predictions and ground truths of train, validate, and test sets in continous lines and marked with different colors.
 
-Note: Stock price normally fluactuate due to economy and news, and it usually do not follow a predictive pattern like weather.
+Note: Stock prices normally fluactuate due to economy and news, and it usually do not follow a predictive pattern like weather.
